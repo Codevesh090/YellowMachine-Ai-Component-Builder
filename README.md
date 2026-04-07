@@ -35,8 +35,15 @@ bun run dev
 
 Create a `.env` file in the root:
 ```env
-VITE_FIREBASE_API_KEY=""
+VITE_FIREBASE_API_KEY=
+VITE_FIREBASE_AUTH_DOMAIN=
+VITE_FIREBASE_PROJECT_ID=
+VITE_FIREBASE_STORAGE_BUCKET=
+VITE_FIREBASE_MESSAGING_SENDER_ID=
+VITE_FIREBASE_APP_ID=
 ```
+
+> Your Gemini API key is entered directly in the UI and stored in your browser only.
 
 > Your Gemini API key is entered directly in the UI and stored in your browser only.
 
