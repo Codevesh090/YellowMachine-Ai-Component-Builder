@@ -3,7 +3,7 @@
 Describe any UI component in plain text and instantly get
 generated code with a live preview, powered by **Gemini API**.
 
-![Preview](public/preview.png)
+![Preview](public/HomePage.png)
 
 ---
 
